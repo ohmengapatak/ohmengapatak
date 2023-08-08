@@ -1,3 +1,3 @@
 bot = getBot()
-bot:say("MAINTENANCE! Buy SC from reseller? report to YourKing! /troll")
+bot:say("MAINTENANCE! Buy SC from reseller? report to YourKing!")
 sleep(3000)
